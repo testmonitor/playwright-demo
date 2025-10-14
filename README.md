@@ -23,6 +23,12 @@ This repository provides a working example of:
 
 Before you start, make sure you have [Node.js](https://nodejs.org/) installed (version 18 or higher recommended).
 
+You'll also need Playwright installed. If you don't have it yet, you can install it with:
+
+```bash
+npx playwright install
+```
+
 Clone this repository and install the dependencies:
 
 ```bash
