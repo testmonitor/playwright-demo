@@ -47,7 +47,7 @@ reporter: [
     "@testmonitor/playwright-reporter",
     {
       domain: "example.testmonitor.com",  // Replace with your TestMonitor domain
-      token: "mytoken",                   // Replace with your Playwright integration token
+      token: "your-token-here",           // Replace with your Playwright integration token
 
       // Optional parameters
       // milestoneId: 12,                 // Use this if you want to link to an existing milestone
