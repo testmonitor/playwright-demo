@@ -1,0 +1,31 @@
+{
+  "name": "playwright-demo",
+  "version": "1.0.0",
+  "description": "This demo repository showcases how to integrate the TestMonitor Playwright Reporter into your Playwright test suite.",
+  "keywords": [
+    "testmonitor",
+    "playwright",
+    "reporter",
+    "demo"
+  ],
+  "homepage": "https://testmonitor.com",
+  "bugs": {
+    "url": "https://github.com/testmonitor/playwright-demo/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/testmonitor/playwright-demo.git"
+  },
+  "main": "index.js",
+  "scripts": {},
+  "author": "TestMonitor | we are Cerios B.V.",
+  "type": "commonjs",
+  "devDependencies": {
+    "@playwright/test": "^1.56.0",
+    "@testmonitor/playwright-reporter": "^1.0.0",
+    "@types/node": "^24.7.1"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}

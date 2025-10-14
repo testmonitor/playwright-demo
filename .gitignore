@@ -1,0 +1,9 @@
+# NodeJS
+node_modules/
+
+# Playwright
+/blob-report/
+/playwright-report/
+/playwright/.cache/
+/playwright/.auth/
+/test-results/
